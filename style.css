@@ -878,7 +878,7 @@ img { max-width:100%; height:auto; display:block;}
   /* Reduce about image height for better fit */
   .about-img {
     height: 400px;
-    width: 200px;
+    width: 400px;
   }
   /* Skills grid stacked single column */
   .skills-grid {
