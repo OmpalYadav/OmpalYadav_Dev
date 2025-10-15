@@ -437,7 +437,7 @@ img { max-width:100%; height:auto; display:block;}
 .skills-ticker {
   width: 100vw;               /* Full width */
   overflow: hidden;
-  background: rgba(255, 255, 255, 0.05); /* halka transparent */
+  background: #17171a;
   padding: 10px 0;
   margin-top: 20px;
   box-sizing: border-box;
@@ -502,6 +502,7 @@ img { max-width:100%; height:auto; display:block;}
   background: #17171a;
   padding: 4.5rem 0 2.8rem 0;
   min-height: 100vh;
+  margin-top: 2.3rem;
 }
 
 .projects-title {
