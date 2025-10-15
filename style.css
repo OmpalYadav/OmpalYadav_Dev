@@ -435,13 +435,11 @@ img { max-width:100%; height:auto; display:block;}
 }
 /* Skills Ticker */
 .skills-ticker {
-  width: 100%;               /* Full width */
+  width: 100vw;               /* Full width */
   overflow: hidden;
   background: rgba(255, 255, 255, 0.05); /* halka transparent */
   padding: 10px 0;
   margin-top: 20px;
-  border-top: 2px solid #fff;
-  border-bottom: 2px solid #fff;
   box-sizing: border-box;
 }
 
