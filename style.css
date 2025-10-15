@@ -446,7 +446,7 @@ img { max-width:100%; height:auto; display:block;}
 .ticker-wrapper {
   display: inline-block;
   white-space: nowrap;
-  animation: ticker 15s linear infinite; /* slow & smooth */
+  animation: ticker 18s linear infinite; /* slow & smooth */
 }
 
 .ticker-wrapper span {
